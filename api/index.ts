@@ -4,7 +4,7 @@ export default {
 
     if (url.pathname.startsWith("/api/")) {
       return Response.json({
-        name: `Cloudflare [${env.ENVIRONMENT}]`,
+        name: `Cloudflare! [${env.ENVIRONMENT}]`,
       });
     }
 

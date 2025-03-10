@@ -16,7 +16,7 @@
 ## Deploy (staging)
 
 - pnpm build --mode staging
-- pnpm wrangler deploy --env staging
+- pnpm wrangler deploy
 - Workers & Pages Settings: cloudflare-vite-tutorial-staging
   - Git repository: connect to git repo
   - Build configuration

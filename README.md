@@ -1,3 +1,7 @@
+
+- https://github.com/cloudflare/workers-sdk/tree/main/packages/vite-plugin-cloudflare#readme
+- pnpm wrangler deploy
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
